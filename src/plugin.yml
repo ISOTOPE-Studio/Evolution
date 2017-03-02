@@ -1,0 +1,11 @@
+name: Evolution
+main: cc.isotopestudio.evolution.Evolution
+
+author: Mars
+description: 
+website: http://isotopestudio.cc
+version: 1.0.0
+commands:
+  evoadmin:
+    description: Evolution
+    usage: /<command>
